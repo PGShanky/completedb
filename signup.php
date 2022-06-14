@@ -33,7 +33,10 @@
         <input name="confirm" type="password"  class="form-control" placeholder="Confirm Password" required><br>
 
         <button name="GO" class="btn btn-lg btn-success btn-block" type="submit">GO</button>
-        <!--    <p class="mt-5 mb-3 text-muted">&copy; 2022</p>-->
+        <br>
+
+        <a class="btn btn-success" style="text-decoration: none" href="users.php">USERS</a>
+
     </form>
 
 </div>
